@@ -8,6 +8,7 @@ const Home = () => {
     let underbar = document.querySelector('.animated')
     console.log(underbar)
     let animate = true;
+    
   }
   useEffect(() => {
     animateUnderbar()
